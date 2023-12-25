@@ -59,7 +59,7 @@ Kaggle Bike Sharing Datasets > [Download](https://www.kaggle.com/datasets/lakshm
     streamlit run dashboard.py
     ```
 
-2. Cloud Access: [Project Data Analytics](https://data-analytics-project.streamlit.app/)
+2. Cloud Access: [Data Analytics Project](https://fikryakrom-bike-sharing.streamlit.app/)
 
 ## Issues & Contribution
 - For further issues or contribution, visit this [link](https://github.com/fikryakrom/Submission_Python-Data-Analysis/issues)
